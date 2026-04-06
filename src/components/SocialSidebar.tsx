@@ -16,7 +16,7 @@ const socials = [
   },
   {
     label: "LinkedIn",
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/lavaughb/",
     icon: (
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
         <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z" />
@@ -60,11 +60,11 @@ export default function SocialSidebar() {
         className="fixed bottom-0 right-6 z-40 hidden flex-col items-center gap-5 md:flex lg:right-10"
       >
         <a
-          href="mailto:hello@example.com"
+          href="mailto:Lavaugh.Brown@gmail.com"
           className="font-mono text-xs tracking-widest text-text-dim transition-all duration-200 hover:-translate-y-0.5 hover:text-accent"
           style={{ writingMode: "vertical-rl" }}
         >
-          hello@example.com
+          Lavaugh.Brown@gmail.com
         </a>
         <div className="mt-2 h-24 w-px bg-text-dim" />
       </motion.div>

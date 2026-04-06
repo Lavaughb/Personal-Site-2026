@@ -29,7 +29,7 @@ export default function About() {
             className="space-y-4 text-text-dim leading-relaxed"
           >
             <p>
-              Hello! I&apos;m Lavaughn, a software engineer who enjoys building
+              Hello! I&apos;m Lavaugh, a software engineer who enjoys building
               things that live on the internet. My interest in web development
               started when I first tried customizing a website template — turns
               out that hacking together layouts taught me a lot about HTML &amp;

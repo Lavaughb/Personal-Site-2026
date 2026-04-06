@@ -47,23 +47,23 @@ const featuredProjects: Project[] = [
     external: "#",
     icon: <CodeIcon />,
   },
-  {
-    title: "Project Two",
-    description:
-      "An interactive dashboard that visualizes complex data sets in real time. Features responsive charts, filtering, and export functionality.",
-    tech: ["Next.js", "TypeScript", "D3.js", "REST API"],
-    github: "https://github.com",
-    external: "#",
-    icon: <ChartIcon />,
-  },
-  {
-    title: "Project Three",
-    description:
-      "A mobile-first e-commerce platform with cart management, payment integration, and an admin panel for inventory control.",
-    tech: ["React", "Stripe", "Firebase", "Tailwind CSS"],
-    github: "https://github.com",
-    icon: <CartIcon />,
-  },
+  // {
+  //   title: "Project Two",
+  //   description:
+  //     "An interactive dashboard that visualizes complex data sets in real time. Features responsive charts, filtering, and export functionality.",
+  //   tech: ["Next.js", "TypeScript", "D3.js", "REST API"],
+  //   github: "https://github.com",
+  //   external: "#",
+  //   icon: <ChartIcon />,
+  // },
+  // {
+  //   title: "Project Three",
+  //   description:
+  //     "A mobile-first e-commerce platform with cart management, payment integration, and an admin panel for inventory control.",
+  //   tech: ["React", "Stripe", "Firebase", "Tailwind CSS"],
+  //   github: "https://github.com",
+  //   icon: <CartIcon />,
+  // },
 ];
 
 const ease = [0.645, 0.045, 0.355, 1] as const;

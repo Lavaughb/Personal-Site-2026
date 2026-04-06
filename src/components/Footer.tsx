@@ -9,7 +9,7 @@ export default function Footer() {
         rel="noopener noreferrer"
         className="font-mono text-sm text-text-dim transition-colors hover:text-accent"
       >
-        Built by Lavaughn Brown
+        Built by Lavaugh Brown
       </a>
     </footer>
   );

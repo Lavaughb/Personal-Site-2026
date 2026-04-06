@@ -22,26 +22,26 @@ const jobs: Job[] = [
       "Improved application performance and reduced load times by optimizing critical rendering paths",
     ],
   },
-  {
-    company: "Company Two",
-    title: "Frontend Developer",
-    period: "Jun 2022 — Dec 2023",
-    bullets: [
-      "Built responsive UI components and design systems with React and TypeScript",
-      "Integrated RESTful APIs and managed application state",
-      "Participated in code reviews and mentored junior developers",
-    ],
-  },
-  {
-    company: "Company Three",
-    title: "Web Developer Intern",
-    period: "Jan 2022 — May 2022",
-    bullets: [
-      "Assisted in the development of client-facing web applications",
-      "Wrote clean, maintainable code following team coding standards",
-      "Gained experience with version control, CI/CD pipelines, and agile workflows",
-    ],
-  },
+  // {
+  //   company: "Company Two",
+  //   title: "Frontend Developer",
+  //   period: "Jun 2022 — Dec 2023",
+  //   bullets: [
+  //     "Built responsive UI components and design systems with React and TypeScript",
+  //     "Integrated RESTful APIs and managed application state",
+  //     "Participated in code reviews and mentored junior developers",
+  //   ],
+  // },
+  // {
+  //   company: "Company Three",
+  //   title: "Web Developer Intern",
+  //   period: "Jan 2022 — May 2022",
+  //   bullets: [
+  //     "Assisted in the development of client-facing web applications",
+  //     "Wrote clean, maintainable code following team coding standards",
+  //     "Gained experience with version control, CI/CD pipelines, and agile workflows",
+  //   ],
+  // },
 ];
 
 const ease = [0.645, 0.045, 0.355, 1] as const;
