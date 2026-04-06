@@ -13,9 +13,9 @@ interface Job {
 
 const jobs: Job[] = [
   {
-    company: "Company One",
-    title: "Software Engineer",
-    period: "Jan 2024 — Present",
+    company: "Disney",
+    title: "System Application Developer & Sustainment Analyst",
+    period: "May 2025 — Present",
     bullets: [
       "Developed and maintained web applications using modern JavaScript frameworks",
       "Collaborated with cross-functional teams to deliver features end-to-end",

@@ -34,7 +34,7 @@ export default function Hero() {
           className="mt-2 text-3xl font-bold leading-tight text-text-dim sm:text-4xl md:text-5xl lg:text-6xl"
           style={{ fontSize: "clamp(2rem, 5vw, 3.5rem)" }}
         >
-          I build things for the web.
+          Lets Talk Tech
         </motion.h2>
 
         <motion.p
@@ -43,9 +43,8 @@ export default function Hero() {
           transition={{ duration: 0.4, delay: 0.9, ease }}
           className="mt-6 max-w-xl text-lg leading-relaxed text-text-dim"
         >
-          I&apos;m a software engineer specializing in building exceptional
-          digital experiences. Currently focused on crafting accessible,
-          performant, and visually striking web applications.
+          Hello and welcome to my page! I am a passionate Software Engineer with a strong background in frontend and backend data solutions, DevOps, and cloud technologies, complemented by my cloud deployment experience. 
+          My tech career has been driven by a genuine love for innovation and a desire to enhance efficiency through smart data management and modern software practices. 
         </motion.p>
 
         <motion.div
